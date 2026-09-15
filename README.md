@@ -4,4 +4,4 @@ Source code for module 1 assignment
 
 ## Program Description
 
-Prints "Hello World!"
+Prints "Hello INET3101", as well as "My name is Derek"
